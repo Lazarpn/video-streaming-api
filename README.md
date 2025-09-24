@@ -11,5 +11,3 @@ To properly work on this project you'll have to have these tools installed:
 No need to restore the database, it will be created and seeded by the first request.
 
 Contact team lead in order to get the current version of the appsettings.Development.json file.
-
-Please note! Make sure your instance name is SQLEXPRESS or change the configuration string on appsettings.Development.json file.
